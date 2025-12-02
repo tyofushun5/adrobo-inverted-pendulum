@@ -2,7 +2,6 @@
 
 二輪倒立振子の MJCF モデルです。MuJoCo での可視化用に簡単な実行スクリプトを添付しています。
 
-## イメージ
 ![シミュレーション画面](imgs/inverted_pendulum.png)
 ![MJCF モデル構造](imgs/inverted_pendulum_mjcf.png)
 
